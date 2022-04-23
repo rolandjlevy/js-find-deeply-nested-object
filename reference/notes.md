@@ -1,0 +1,2 @@
+- https://cheatcode.co/tutorials/how-to-recursively-traverse-an-object-with-javascript
+- https://grabthiscode.com/javascript/javascript-map-value-nested-object
